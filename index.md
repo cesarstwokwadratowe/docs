@@ -2,8 +2,7 @@
 
 Witaj w Cesarstwie Kwadratowym - na serwerze Minecraft RolePlay. Za chwilę poinstruujemy Cię jak rozpocząć swoją przygodę, jednakże najpierw upewnij się, że spełniasz wszystkie wymagania.
 
-<button style='
-  appearance: none;
+<button align="right" style='
   background-color: #FAFBFC;
   border: 1px solid rgba(27, 31, 35, 0.15);
   border-radius: 6px;
@@ -14,18 +13,9 @@ Witaj w Cesarstwie Kwadratowym - na serwerze Minecraft RolePlay. Za chwilę poin
   display: inline-block;
   font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
   font-size: 14px;
-  font-weight: 500;
   line-height: 20px;
-  list-style: none;
   padding: 6px 16px;
-  position: relative;
-  transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  vertical-align: middle;
-  white-space: nowrap;
-  word-wrap: break-word'>[Przejdź dalej -&gt;](/wprowadzenie/wymagania)</button>
+  position: relative;'>[Przejdź dalej -&gt;](/wprowadzenie/wymagania)</button>
 
 # Spis stron
 
