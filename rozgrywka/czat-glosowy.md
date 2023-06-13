@@ -4,7 +4,7 @@ Serwer obsługuje dwa typy odległościowego czatu głosowego (ang. *Proximity V
 
 ## Modyfikacja Simple Voice Chat (zalecane)
 
-Komunikacja za pomocą modyfikacji Simple Voice Chat pozwala na rozmowę z innymi graczami w określonej przez gracza odległości. Im dalej gracze są od siebie, tym ciszej się słyszą. Modyfikację można pobrać z [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) oraz [Modrinth](https://modrinth.com/plugin/simple-voice-chat/versions?c=release) i jest ona kompatybilna z [Sound Physics Remastered](/rozgrywka/immersja.md#sound-physics-remastered).
+Komunikacja za pomocą modyfikacji Simple Voice Chat pozwala na rozmowę z innymi graczami w określonej przez gracza odległości. Im dalej gracze są od siebie, tym ciszej się słyszą. Modyfikację można pobrać z [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) oraz [Modrinth](https://modrinth.com/plugin/simple-voice-chat/versions?c=release) i jest ona kompatybilna z [Sound Physics Remastered](/wprowadzenie/immersja.md#sound-physics-remastered).
 
 ## Discord
 

@@ -6,13 +6,13 @@ Nasz serwer posiada dodatkowe receptury, aby umożliwić graczom wytwarzanie prz
 
 ## Bruk
 
-**Bruk** (ang. *cobblestone*) możemy wytworzyć z 8 bloków [czernitu](#blackstone) i wiadra wody.
+**Bruk** (ang. *cobblestone*) możemy wytworzyć z 8 bloków [czernitu](#czernit) i wiadra wody.
 
 ![1686590194227](image/receptury/1686590194227.png)
 
 ## Czernit
 
-**Czernit** (ang. *blackstone*) możemy wytworzyć z 8 bloków [bruku](#cobblestone) i czarnego barwnika.
+**Czernit** (ang. *blackstone*) możemy wytworzyć z 8 bloków [bruku](#bruk) i czarnego barwnika.
 
 ![1686590311329](image/receptury/1686590311329.png)
 
@@ -46,7 +46,7 @@ Nasz serwer posiada dodatkowe receptury, aby umożliwić graczom wytwarzanie prz
 
 ## Łza ghasta
 
-**Łza ghasta** (ang. *ghast tear*) możemy wytworzyć ze [spaczonego grzyba](#fungus) i wiadra wody. Ułożenie nie ma znaczenia.
+**Łza ghasta** (ang. *ghast tear*) możemy wytworzyć ze [spaczonego grzyba](#spaczony-grzyb-oraz-szkarłatny-grzyb) i wiadra wody. Ułożenie nie ma znaczenia.
 
 ![1686590507911](image/receptury/1686590507911.png)
 
@@ -58,13 +58,13 @@ Nasz serwer posiada dodatkowe receptury, aby umożliwić graczom wytwarzanie prz
 
 ## Odłamek netherytu
 
-**Odłamek netherytu** (ang. *netherite scrap*) możemy wytworzyć z 4 króliczych łapek, [4 łez ghasta](#ghast-tear) oraz bloku diamentu.
+**Odłamek netherytu** (ang. *netherite scrap*) możemy wytworzyć z 4 króliczych łapek, [4 łez ghasta](#łza-ghasta) oraz bloku diamentu.
 
 ![1686590544643](image/receptury/1686590544643.png)
 
 ## Piasek dusz
 
-**Piasek dusz** (ang. *Soul Sand*) możemy wytworzyć z piasku oraz [łzy ghasta](#ghast-tear). Ułożenie nie ma znaczenia.
+**Piasek dusz** (ang. *Soul Sand*) możemy wytworzyć z piasku oraz [łzy ghasta](#łza-ghasta). Ułożenie nie ma znaczenia.
 
 ![1686590637475](image/receptury/1686590637475.png)
 
@@ -82,11 +82,11 @@ W obydwu przypadkach ułożenie nie ma znaczenia.
 
 ## Spaczony trzon oraz szkarłatny trzon
 
-**Spaczony trzon** (ang. *Warped stem*) możemy wytworzyć ze [spaczonego grzyba](#fungus) oraz pnia drzewa (dowolnego rodzaju).
+**Spaczony trzon** (ang. *Warped stem*) możemy wytworzyć ze [spaczonego grzyba](#spaczony-grzyb-oraz-szkarłatny-grzyb) oraz pnia drzewa (dowolnego rodzaju).
 
 ![1686590740013](image/receptury/1686590740013.png)
 
-**Szkarłatny trzon** (ang. *Crimson stem*) możemy wytworzyć ze [szkarłatnego grzyba](#fungus) oraz pnia drzewa (dowolnego rodzaju).
+**Szkarłatny trzon** (ang. *Crimson stem*) możemy wytworzyć ze [szkarłatnego grzyba](#spaczony-grzyb-oraz-szkarłatny-grzyb) oraz pnia drzewa (dowolnego rodzaju).
 
 ![1686590757413](image/receptury/1686590757413.png)
 

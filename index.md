@@ -2,8 +2,7 @@
 
 Witaj w Cesarstwie Kwadratowym - na serwerze Minecraft RolePlay. Za chwilę poinstruujemy Cię jak rozpocząć swoją przygodę, jednakże najpierw upewnij się, że spełniasz wszystkie wymagania.
 
-**[Przejdź dalej -&gt;](/wprowadzenie/wymagania)**
-
+<button>[Przejdź dalej -&gt;](/wprowadzenie/wymagania)</button>
 
 # Spis stron
 
@@ -12,7 +11,6 @@ Witaj w Cesarstwie Kwadratowym - na serwerze Minecraft RolePlay. Za chwilę poin
 * Rozgrywka i mechaniki gry
   * [Receptury](/rozgrywka/receptury.md)
   * [Czat głosowy](/rozgrywka/czat-glosowy.md)
-
 
 # Twórz dokumentację z nami!
 
