@@ -9,3 +9,6 @@ Komunikacja za pomocą modyfikacji Simple Voice Chat pozwala na rozmowę z innym
 ## Discord
 
 Przy pierwszym dołączeniu na serwer Minecraft został*ś poproszony o połączenie kont Minecraft oraz Discord. Jeśli to zrobił*ś, możesz dołączyć na kanał [#Czat odległościowy](https://discord.gg/RQaCahGgnr). Gdy zbliżysz się do innego gracza na odległość 40 bloków, obaj zostaniecie przeniesieni na nowy kanał, przeznaczony tylko dla Was.
+
+
+{!_inc/footer.md!}

@@ -9,3 +9,6 @@ W związku z tym, że Cesarstwo Kwadratowym jest serwerem RolePlay, warto wczuć
 ## Simple Voice Chat
 
 *Strona: [Czat głosowy](/rozgrywka/czat-glosowy.md#modyfikacja-simple-voice-chat-zalecane)*
+
+
+{!_inc/footer.md!}

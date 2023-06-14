@@ -91,3 +91,6 @@ W obydwu przypadkach ułożenie nie ma znaczenia.
 ![1686590757413](image/receptury/1686590757413.png)
 
 W obydwu przypadkach ułożenie nie ma znaczenia.
+
+
+{!_inc/footer.md!}

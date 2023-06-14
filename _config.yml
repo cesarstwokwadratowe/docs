@@ -1,6 +1,7 @@
 title: Cesarstwo Kwadratowe - Dokumentacja
 plugins:
   - jekyll-relative-links
+  - markdown_include
 relative_links:
   enabled: true
   collections: true

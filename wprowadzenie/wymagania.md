@@ -14,3 +14,6 @@ Aby dołączyć do serwera musisz spełnić kilka wymagań:
 * Musisz posiadać stałe łącze internetowe.
 
 Zalecane jest także posiadanie dobrej jakości mikrofonu.
+
+
+{!_inc/footer.md!}
