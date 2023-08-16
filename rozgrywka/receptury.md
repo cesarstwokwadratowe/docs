@@ -93,4 +93,4 @@ W obydwu przypadkach ułożenie nie ma znaczenia.
 W obydwu przypadkach ułożenie nie ma znaczenia.
 
 
-{!_inc/footer.md!}
+{% include footer.md %}

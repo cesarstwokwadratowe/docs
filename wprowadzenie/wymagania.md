@@ -10,10 +10,9 @@ Aby dołączyć do serwera musisz spełnić kilka wymagań:
   * Jeśli chcesz grać na telefonie lub tablecie z systemem Android, iOS lub iPadOS, musisz posiadać oryginalną grę Minecraft: Pocket Edition pobraną z [Google Play](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&pli=1) lub [App Store](https://apps.apple.com/app/minecraft/id479516143) oraz **zakupioną** grę [Minecraft: Java Edition](https://minecraft.net/pl-pl/store/minecraft-java-bedrock-edition-pc);
   * Jeśli chcesz grać na konsoli (nie dotyczy Steam Deck), musisz posiadać oryginalną grę Minecraft w wersji na swoją konsolę oraz zakupioną grę [Minecraft: Java Edition](https://minecraft.net/pl-pl/store/minecraft-java-bedrock-edition-pc);
     * Większość konsol wymaga dodatkowego abonamentu do gry online;
-* Musisz posiadać konto [Discord](https://discord.com/);
+* Musisz posiadać konto [Discord](https://discord.com/) lub [Matrix](https://matrix.org/);
 * Musisz posiadać stałe łącze internetowe.
 
 Zalecane jest także posiadanie dobrej jakości mikrofonu.
 
-
-{!_inc/footer.md!}
+{% include footer.md %}

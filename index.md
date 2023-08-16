@@ -18,4 +18,4 @@ Witaj w Cesarstwie Kwadratowym - na serwerze Minecraft RolePlay. Za chwilę poin
 Jeśli jest coś, o czym tu nie wspomnieliśmy, a Twoim zdaniem powinniśmy lub popełniliśmy błąd w tekście, możesz nam pomóc. Wyślij tekst w składni Markdown w formacie `.md` na adres [dokumentacja@cesarstwokwadratowe.com](mailto:dokumentacja@cesarstwokwadratowe.com). Jeśli nie znasz składni Markdown, możesz skorzystać z jednego z internetowych generatorów (np. [StackEdit](https://stackedit.io/)), natomiast my korzystamy ze stacjonarnego oprogramowania [Visual Studio Code](https://code.visualstudio.com/) (dostępnego także [w wersji webowej](https://vscode.dev/)).
 
 
-{!_inc/footer.md!}
+{% include footer.md %}
